@@ -1,4 +1,4 @@
-Setup django in Linux Environment:
+## Setup django in Linux Environment:
 
 premise: pip must be install first to install type in the terminal
          sudo apt-get install python-pip
